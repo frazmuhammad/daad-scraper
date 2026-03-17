@@ -72,6 +72,6 @@ daad_scraper/
 ├── scraper.py          # Scraping logic (Selenium + Requests)
 ├── excel_exporter.py   # Exports database to Excel
 ├── main.py             # Main entry point
-├── create_daad_db.py   # Script to create the filters database
+├── daad_filters.db     # Database file with filter values
 ├── requirements.txt    # Python dependencies
 └── README.md           # Documentation
